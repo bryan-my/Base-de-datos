@@ -1,1 +1,1 @@
-Este es el repositorio donde encontraremos tanto la prueba 1 de base de datos como la segunda 
+Este es el repositorio donde encontraremos el codigo pl/sql para la prueba 2 de base de datos
