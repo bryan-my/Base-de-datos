@@ -248,7 +248,7 @@ END;
 /
 
 ------------------------------------------------------------
--- 5) DEMOS rápidas (para mostrar en la defensa)
+-- 5) DEMOS rápidas 
 ------------------------------------------------------------
 
 -- Procedimiento sin parámetros (masivo)
@@ -285,3 +285,4 @@ END;
 UPDATE libros SET precio = precio * 1.05 WHERE id_categoria = 2;
 SELECT * FROM auditoria_eventos ORDER BY id_evento DESC;
 SELECT * FROM auditoria_detalle ORDER BY id_detalle DESC;
+
